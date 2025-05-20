@@ -47,6 +47,7 @@ python val.py
 
 The dataset should be placed in the root directory and the structure should be:
 
+```bash
 TSD-Net/
 ├── dataset/
 │   └── TT100K/
@@ -69,12 +70,13 @@ TSD-Net/
 │               ├── 10001.txt
 │               ├── 10002.txt
 │               └── ...
-
+```
 
 ### CCTSDB2021 Dataset
 
 The dataset should be placed in the root directory and the structure should be:
 
+```bash
 TSD-Net/
 ├── dataset/
 │   └── CCTSDB/
@@ -96,7 +98,7 @@ TSD-Net/
 │               ├── image1.txt
 │               ├── image2.txt
 │               └── ...
-
+```
 
 ## License
 
