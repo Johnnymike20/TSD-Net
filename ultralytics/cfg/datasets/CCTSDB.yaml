@@ -1,0 +1,11 @@
+path: /root/autodl-tmp/TSD-Net/dataset/CCTSDB  # dataset dir
+train: images/train  # train images 
+val: images/val  # val images 
+
+# Classes
+names:
+  0: mandatory
+  1: prohibitory
+  2: warning
+
+

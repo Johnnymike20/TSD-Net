@@ -1,0 +1,38 @@
+# Ignore runs folder
+runs/
+
+# Ignore dataset folder
+dataset/
+
+# Ignore weight files in the root directory
+/*.pth
+/*.pt
+/*.weights
+/*.bin
+/*.onnx
+/*.h5
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
